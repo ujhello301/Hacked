@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 6b23da7dd8af1f14eaa43a5e266a7f3c
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 04243d4c97d41ad43b115a121a2d5698
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2b93703214f8a73489a4e3bc1f962756
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: ddf600b1b89815040ab613a1559f6a06
+  - enabled: 1
+    path: Assets/Scenes/Modules_old.unity
+    guid: d5900cfb063dad441ba2f7bc066017d1
+  - enabled: 1
+    path: Assets/Scenes/Awards.unity
+    guid: a3a75882c57d047499f76333e238f9ac
+  - enabled: 1
+    path: Assets/Scenes/Facebook.unity
+    guid: 5126197837ebf3f4e96f2d8fb2a2a815
+  - enabled: 1
+    path: Assets/Scenes/BankAccount.unity
+    guid: 6866471fd2daacd4bb5290d57ca163de
+  - enabled: 1
+    path: Assets/Scenes/FMessage.unity
+    guid: 4835f3de6a7390244a8536b270cc9799
+  - enabled: 1
+    path: Assets/Scenes/FMessage1.unity
+    guid: fb2b722e808c5e541ad52765b29229d1
+  - enabled: 1
+    path: Assets/Scenes/FMessage2.unity
+    guid: 8cc99dbfb05a4fe40a01e8c374177e00
+  - enabled: 1
+    path: Assets/Scenes/FMessage3.unity
+    guid: 8383579ae15243544ab5c32ce571c98f
+  - enabled: 1
+    path: Assets/Scenes/FMessageBox.unity
+    guid: 9b58aa0f318e9054ba92c2ea21ec5a42
+  - enabled: 1
+    path: Assets/Scenes/FProfile.unity
+    guid: 888be7ebb24b0054ab9e64d32c218413
+  - enabled: 1
+    path: Assets/Scenes/IMessage.unity
+    guid: 5c3b07f448c960843b675f9edd9a5cc5
+  - enabled: 1
+    path: Assets/Scenes/IMessage1.unity
+    guid: ccbb092355cfee4468a4501607be6a76
+  - enabled: 1
+    path: Assets/Scenes/IMessage2.unity
+    guid: 37efafb6b9c6443409f4cb5ac612944a
+  - enabled: 1
+    path: Assets/Scenes/IMessage3.unity
+    guid: 3d32c8101cd894e4d82e4e71f8eeb1ac
+  - enabled: 1
+    path: Assets/Scenes/IMessageBox.unity
+    guid: 261f1cba011595f4f9bae64b06f8bb6f
+  - enabled: 1
+    path: Assets/Scenes/Instagram.unity
+    guid: a187a43e1bfd19e4184e6b378f332c4b
+  - enabled: 1
+    path: Assets/Scenes/IProfile.unity
+    guid: 7b3c52c87d169294d8c409d0d7a1cb09
+  - enabled: 1
+    path: Assets/Scenes/Message.unity
+    guid: 694af8fe28223ae4bad1e4cf13d91f5d
+  - enabled: 1
+    path: Assets/Scenes/Message1.unity
+    guid: 327ff3ca4406d1a4ea33e09bf771a557
+  - enabled: 1
+    path: Assets/Scenes/TryAgain.unity
+    guid: 1ff790d4de249aa41a5d8b7c25a77eba
+  - enabled: 1
+    path: Assets/Scenes/Transaction1.unity
+    guid: f30e1e5ed243cc64db2a08659b356d5a
+  - enabled: 1
+    path: Assets/Scenes/Transaction2.unity
+    guid: 9047db31f1e655b408b0f1b7d1a36462
+  - enabled: 1
+    path: Assets/Scenes/Transaction.unity
+    guid: 9ed51de37f1eae241aeb3ffaffb3def2
+  - enabled: 1
+    path: Assets/Scenes/TimeSkip1.unity
+    guid: ab36c7a8c25f8be4792c65d469a1819e
+  - enabled: 1
+    path: Assets/Scenes/TimeSkip.unity
+    guid: c5e837f662a01c542975fad63aa23826
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Profile.unity
+    guid: 8bed4ddb4739d1f42bdbe452143524b8
+  - enabled: 1
+    path: Assets/Scenes/NextLevel.unity
+    guid: 219926a81ef40b64cb9fa2c3e75763ea
+  - enabled: 1
+    path: Assets/Scenes/MessageBox.unity
+    guid: 33a64f978acbc2b46b08b208769b0842
+  - enabled: 1
+    path: Assets/Scenes/Message3.unity
+    guid: 25a30e777a759ac40ae5a5f5ef5142c1
+  - enabled: 1
+    path: Assets/Scenes/Message2.unity
+    guid: 09d34c74c3444fc478faea6e141aef97
+  - enabled: 1
+    path: Assets/Scenes/ScenarioMenu.unity
+    guid: 725c0d6d22a7272479d50f4144d4dde7
+  - enabled: 1
+    path: Assets/Scenes/Menu-normal.unity
+    guid: b242c44ddc135594ea48279ea3803ab6
+  - enabled: 1
+    path: Assets/Scenes/Levels-Normal.unity
+    guid: 9927b7450e9b65b449882b9fdb1cfe74
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: b777d086b4137b441bbe064bffc0c9dd
+  - enabled: 1
+    path: Assets/Scenes/Locked-Modules.unity
+    guid: e3407c505dfad9f4b85c6e814e058cef
+  m_configObjects: {}
